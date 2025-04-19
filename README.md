@@ -1,2 +1,2 @@
 # BANK_APP
-A useful creation for banking purposes
+A useful console based creation for banking purposes
